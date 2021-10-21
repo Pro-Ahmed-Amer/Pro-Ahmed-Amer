@@ -30,7 +30,7 @@
 
 13 => https://pro-ahmed-amer.github.io/The-School-of-Life-Website/
 
-14 => https://pro-ahmed-amer.github.io/ahmed-Site/
+14 => https://pro-ahmed-amer.github.io/Ahmed-Site/
 
 15 => WordPress => https://real-dev.space/
 
