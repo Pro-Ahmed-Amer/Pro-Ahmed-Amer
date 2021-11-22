@@ -36,4 +36,6 @@
 
 16 => WordPress => https://lightdiet91.com/
 
-16 => WordPress => https://ymy-juice.com/
+17 => WordPress => https://ymy-juice.com/
+
+18 => WordPress => https://laith.tech/
