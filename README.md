@@ -181,3 +181,5 @@
 80 => https://pro-ahmed-amer.github.io/Awesome-Portfolio/
 
 81 => https://pro-ahmed-amer.github.io/youtube-video-screen-clone/
+
+82 => https://pro-ahmed-amer.github.io/barcode-generator/
